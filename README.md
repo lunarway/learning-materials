@@ -1,6 +1,6 @@
 # Learning materials
 
-This repository contains learning materials, that are relevant for new engineers at Lunar.
+This repository contains learning materials, that are relevant for engineers at Lunar.
 
 ## Content
 
