@@ -41,10 +41,6 @@ This repository contains learning materials, that are relevant for engineers at 
 
 **GitOps - Operations by Pull Request** by Kasper Nissen. https://tech.lunar.app/blog/2020-03-10-gitops-operations-by-pull-request.
 
-**Release Manager** by Lunar. https://github.com/lunarway/release-manager.
-
-**Shuttle** by Lunar. https://github.com/lunarway/shuttle.
-
 ## Observability
 
 **Monitoring and Observability** by Cindy Sridharan. https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c.
