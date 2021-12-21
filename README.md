@@ -49,6 +49,8 @@ This repository contains learning materials, that are relevant for engineers at 
 
 **Lessons from the K8s Vanguard: Invest in Onboarding, Freedom & Responsibility, and Integrated Tooling** by Ambassador Labs. https://www.getambassador.io/developer-control-plane/dcp-insights-kasper-nissen-from-lunar.
 
+**Core ideas in Team Topologies** by Matthew Skelton and Manuel Pais. https://teamtopologies.com/key-concepts.
+
 ## Other things
 
 **Playlist with Lunar talks**. https://www.youtube.com/playlist?list=PL5T4q56AEyfXZSXOnLJlaOnvqfRIp9HIm.
