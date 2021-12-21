@@ -5,13 +5,13 @@ This repository contains learning materials, that are relevant for engineers at 
 ## Content
 
 1. Microservices
-2. Cloud Native
-3. Kubernetes and Containers
-4. Golang
-5. CI/CD and GitOps
-6. Observability
-7. Culture
-8. Other things
+1. Cloud Native
+1. Kubernetes and Containers
+1. Golang
+1. CI/CD and GitOps
+1. Observability
+1. Culture
+1. Other things
 
 ## Microservices
 
