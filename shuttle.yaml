@@ -1,0 +1,6 @@
+plan: git://git@github.com:lunarway/lw-shuttle-docs-plan.git
+vars:
+  service: learning-materials
+  squad: aura
+  domain: developer-enablement
+  type: documentation
